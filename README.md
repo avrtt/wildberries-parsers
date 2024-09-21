@@ -15,7 +15,7 @@ The main script collects the following data fields (it's easily expandable thoug
 
 The script can scan items for the entire category of goods, or using search keywords.
 
-For development purposes, see the comments inside the Parser class.
+For development purposes, see the docstrings inside the Parser class.
 
 ## Installation
 1. Clone and navigate to the repository:
