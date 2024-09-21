@@ -1,0 +1,6 @@
+*.xlsx
+*.json
+output/
+venv
+.python-version
+.vscode
