@@ -1,4 +1,4 @@
-This repository contains Python scripts designed to extract data from wildberries.ru via its API. You can collect information about specific goods (products) and save it in .xlsx files.
+This repository contains Python scripts designed to extract data from [wildberries.ru](wildberries.ru) via its API. You can collect information about specific goods (products) and save it in .xlsx files.
  
 ## Description
 The main script collects the following data fields (it's easily expandable though):
