@@ -68,6 +68,6 @@ Make sure you have a stable connection while parsing items since the script util
 Feel free to open PRs and issues.
 
 ## License
-These scripts is licensed under the MIT License. See the LICENSE file for details.
+These scripts are licensed under the MIT License. See the LICENSE file for details.
 
 
